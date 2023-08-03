@@ -1,4 +1,13 @@
 body{
-    background-color: floralwhite;
+    
+    background-color: rgb(0, 0, 0);
+   font-weight: bold;
+font-style: initial;
 }
-img{width: 500px;}
+h1{color: rgb(240, 248, 255);}
+
+.pikachu1{
+    width: 500px;
+
+
+}
