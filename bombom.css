@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+
+
+.cabeçalho{
+    
+    background-color: #fad6ad;;
+    height:100px;
+    text-align: center;
+    padding: 15px;
+    }
+    .logobombom{
+
+        width: 230px;
+    }
+    .bombomdeuva{
+
+        background-image: url( ahhgourmet3.jpg ) ;
+background-position: center;
+background-size: cover;
+height: 1000px;
+    }
+
+
+
+
