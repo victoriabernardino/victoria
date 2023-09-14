@@ -20,12 +20,40 @@
     }
     .bombomdeuva{
 
-        background-image: url( ahhgourmet3.jpg ) ;
-background-position: center;
-background-size: cover;
-height: 1000px;
+        background-image: url( bombom.jpg) ;
+        background-position: center;
+        background-size: cover;
+        height: 420px;
     }
 
+    .ingredientes{
 
+        width: 500px;
+        margin:auto;
+        padding: 20px;
+        background-color: white;
+        margin-top: 50px;
+        border-radius: 5px;
+        font-weight: 300px;
+    }
 
+    h1{
+
+text-align: center;
+color: black;
+font-size: 30px;
+font-weight: 400px;
+    }
+    li{
+       
+        list-style-position: inside;
+        font-size: 25px;
+
+    }
+    
+    a {
+
+        text-decoration: none;
+        background-color: #ff6a28;
+    }
 
